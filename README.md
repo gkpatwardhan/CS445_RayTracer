@@ -10,3 +10,5 @@ Simply run the notebook `RayTracer.ipynb` to reproduce the results.
 ![sphere](https://github.com/gkpatwardhan/CS445_RayTracer/assets/92644639/209d62b8-230a-4e44-af17-f0cdd466c31a)
 
 
+<img width="1199" alt="image" src="https://github.com/gkpatwardhan/CS445_RayTracer/assets/92644639/22849879-76ea-45ea-9fe0-b18447044888">
+
